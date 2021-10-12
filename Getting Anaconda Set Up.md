@@ -15,4 +15,4 @@ I followed along with the tutorial and started to get a hang of things, until...
 
 ## The result
 
-I did it! Only after I uninstalled it yet again, and reinstalled it. From here I managed to get everything working. My issue with the previous installation was when I typed in the command conda --version I got an error and figured it was not installed properly. But now when I do so this is what comes up! ![Anaconda4](Anaconda4.jpg)
+I did it! Only after I uninstalled it yet again, and reinstalled it. From here I managed to get everything working. My issue with the previous installation was when I typed in the command conda --version I got an error and figured it was not installed properly. But now when I do so this is what comes up![Anaconda4](Anaconda4.jpg)
