@@ -16,7 +16,7 @@ Eventually I figured, okay maybe my computer wants me to put the urls.txt file i
 
 ## Anaconda
 
-I am having the most difficulty with Anaconda and Python. See [[Getting Anaconda Set Up]] for a complete rundown of my frustrations. I tried running the python urls.py command and this is what happened. [Anaconda1](Anaconda1.jpg)
+I am having the most difficulty with Anaconda and Python. See [[Getting Anaconda Set Up.md]] for a complete rundown of my frustrations. I tried running the python urls.py command and this is what happened. [Anaconda1](Anaconda1.jpg)
 I was very confused, so that is when I decided to check if conda and python were downloaded correctly and they were not, so I reinstalled the program.
 
 Finally I managed to get it working! [Anaconda2](Anaconda2.jpg)
